@@ -5,3 +5,4 @@ google-auth-httplib2
 requests 
 Flask-Cors
 gunicorn
+google-api-python-client
